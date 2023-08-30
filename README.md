@@ -54,7 +54,7 @@
 
 - 第一次打开软件时，会有输入账号密码的提示，输入完后会在本地 `我的文档\BJUT_NET_Auth` 目录下生成配置文件，以后无需再输入。
 
-<img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_8.png" width="60%" height="60%" />
+<img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_12.png" width="60%" height="60%" />
 
 　　一般来说，这一步做完以后就不用管了。
 
