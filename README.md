@@ -42,7 +42,7 @@
 
 软件检测报告：
 
-![](https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_8.png)
+![](https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_13.png)
 
 ![](https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_9.png)
 
