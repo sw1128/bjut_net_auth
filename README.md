@@ -26,6 +26,12 @@
 | :---: | :---: |
 | <img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_6.gif"> | <img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_7.gif"> |
 
+✅  软件内部检查更新
+
+| 检查更新 | 下载完成 |
+| :---: | :---: |
+| <img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_10.png"> | <img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_11.png"> |
+
 ## <span id="yssm">📢 隐私声明</span>
 
 本软件不会收集任何个人信息，一切个人数据皆存储在设备本地。
@@ -34,13 +40,11 @@
 
 同时，为防止有人对代码进行修改、植入后门以窃取账号信息，将不对代码进行开源。
 
-腾讯哈勃分析结果：
+软件检测报告：
 
-![](https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/habo.jpg)
+![](https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_8.png)
 
-360木马云查杀结果：
-
-![](https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth6.png)
+![](https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_auth_9.png)
 
 ## 🔔 使用方法
 
@@ -80,7 +84,7 @@
 
 ## 📥 下载地址
 
-暂未公布
+https://wwuw.lanzouj.com/i5Zfx16wb93i
 
 ## ⭐ 作者想说
 
