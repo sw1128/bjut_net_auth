@@ -92,4 +92,4 @@ https://wwuw.lanzouj.com/i5Zfx16wb93i
 
 打个赏也可以 （祝老板发财） ❤️
 
-<img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_net5.jpg" width="50%" height="50%" />，欢迎点击软件右键菜单中的“联系作者”按钮加我为好友，同时也欢迎各路大佬交流学习！
+<img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_net5.jpg" width="50%" height="50%" />
